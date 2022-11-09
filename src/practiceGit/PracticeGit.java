@@ -8,4 +8,7 @@ public class PracticeGit {
 		
 	}
 
+	public void thisIsFunWhenItWorks() {
+		System.out.println("This is boring");
+	}
 }
